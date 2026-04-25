@@ -2,6 +2,8 @@
 
 > 🔍 Search and install skills from the [skills.dog](https://skills.dog) marketplace directly in Claude Code
 
+Chinese users can also discover skills through [Skills宝](https://skilery.com) before installing.
+
 ## Features
 
 - 🔎 **Semantic Search** - Find skills using natural language descriptions
